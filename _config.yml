@@ -1,8 +1,8 @@
 title: Rachel Basile # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Analyst & Educator <br><br>
-  Lover of Podcasts  <br><br>
+  Data Analyst & Educator
+    <br><br>
   <a href="https://www.linkedin.com/in/rachel-basile/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
