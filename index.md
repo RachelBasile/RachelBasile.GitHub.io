@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/numbers-behind-power-marketing-rachel-basile/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Screen Shot 2023-03-22 at 12.24.31 PM.png?raw=true"/>](https://www.linkedin.com/pulse/numbers-behind-power-marketing-rachel-basile/)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
 
