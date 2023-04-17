@@ -12,7 +12,7 @@ My first write up for Avery Smith's Data Career Boot Camp covering food delivery
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/data-analysis-future-education-rachel-basile/)
-[<img src="images/Massachusetts Education System (Picture).png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Massachusetts Education System (Picture).png?raw=true"/>]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://www.linkedin.com/pulse/data-analysis-future-education-rachel-basile/))
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
