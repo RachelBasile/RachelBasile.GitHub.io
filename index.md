@@ -22,3 +22,9 @@ What are the top math schools in the state?
 #### [Diamond Project](https://www.linkedin.com/pulse/perfect-match-moment-rachel-basile/?trk=public_profile-settings_article_view)
 [<img src="images/Screen Shot 2023-04-17 at 12.03.13 PM.png"/>](https://www.linkedin.com/pulse/perfect-match-moment-rachel-basile/?trk=public_profile-settings_article_view)
 In this case study I was prompted to analyze the largest diamond data set on Kaggle. The main focuses was to create the perfect buying guide for someone looking to purchase the perfect engagement diamond.
+
+---
+#### [Finance Project](https://www.linkedin.com/pulse/ending-extreme-poverty-promoting-shared-prosperity-way-rachel-basile/)
+[<img src="images/Screen Shot 2023-04-17 at 12.03.24 PM.png"/>](https://www.linkedin.com/pulse/ending-extreme-poverty-promoting-shared-prosperity-way-rachel-basile/)
+In this case study I work for The World Bank as a data analyst.  I am tasked with analyzing transactions amongst different countries along with the debt due to the IDA.
+
