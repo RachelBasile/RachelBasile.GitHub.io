@@ -25,6 +25,6 @@ In this case study I was prompted to analyze the largest diamond data set on Kag
 
 ---
 #### [Finance Project](https://www.linkedin.com/pulse/ending-extreme-poverty-promoting-shared-prosperity-way-rachel-basile/)
-[<img src="images/Screen Shot 2023-04-17 at 12.03.24 PM.png"/>](https://www.linkedin.com/pulse/ending-extreme-poverty-promoting-shared-prosperity-way-rachel-basile/)
+[<img src="images/Screen Shot 2023-04-17 at 12.22.08 PM.png"/>](https://www.linkedin.com/pulse/ending-extreme-poverty-promoting-shared-prosperity-way-rachel-basile/)
 In this case study I work for The World Bank as a data analyst.  I am tasked with analyzing transactions amongst different countries along with the debt due to the IDA.
 
